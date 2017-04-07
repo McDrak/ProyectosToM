@@ -1,0 +1,6 @@
+[Fri Nov 25 12:54:23 COT 2016] - Server Started
+[Fri Nov 25 12:54:23 COT 2016] - Cargando Base de Datos...
+[Fri Nov 25 12:54:24 COT 2016] - Base de datos cargada, 4 Usuarios registrados
+[Fri Nov 25 12:59:54 COT 2016] - Server Started
+[Fri Nov 25 12:59:54 COT 2016] - Cargando Base de Datos...
+[Fri Nov 25 12:59:55 COT 2016] - Base de datos cargada, 4 Usuarios registrados

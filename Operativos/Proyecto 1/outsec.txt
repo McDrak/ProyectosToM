@@ -1,0 +1,10 @@
+17:36:10  [T ejecucion min]  1 130
+17:36:10  [T espera min]  0 67
+17:36:10  [S bien cuantos]  99
+17:36:10  [S cancelado cuantos]  0
+17:36:10  [NP 1 cuantos]  16
+17:36:10  [NP 2 cuantos]  1
+17:36:10  [P 6 cuantos]  1
+17:36:10  [P 7 cuantos]  256
+17:36:10  [S bien cuantos]  99
+17:36:10  [S cancelado cuantos]  0

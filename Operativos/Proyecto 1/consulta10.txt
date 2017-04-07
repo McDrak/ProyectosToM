@@ -1,0 +1,10 @@
+T ejecucion min
+T espera min
+S bien cuantos
+S cancelado cuantos
+NP 1 cuantos
+NP 2 cuantos
+P 6 cuantos
+P 7 cuantos
+S bien cuantos
+S cancelado cuantos

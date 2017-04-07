@@ -1,0 +1,26 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>Hola, {{name}}!</ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-card>
+    <img src="assets/solicitud.jpeg" />
+    <ion-card-content>
+      <button ion-button block outline (click)="setupCita()">Solicitud de Cita</button>
+    </ion-card-content>
+  </ion-card>
+  <ion-card>
+    <img src="assets/emergencia.jpeg" />
+    <ion-card-content>
+      <button ion-button block outline (click)="setupEmergencyAlert()">Emergencia</button>
+    </ion-card-content>
+  </ion-card>
+  <ion-card>
+    <img src="assets/turno.jpg" />
+    <ion-card-content>
+      <button ion-button block outline (click)="setupWaiting()">Salas de Urgencia Cercanas</button>
+    </ion-card-content>
+  </ion-card>
+</ion-content>
